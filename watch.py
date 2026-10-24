@@ -1,7 +1,7 @@
 import os, re, requests
 
 URL = "https://www.blsinternational.com/portugal/morocco/"
-CHAT = "@fatherNabil99"
+CHAT = "@nabil_visa_alerts"
 TOKEN = os.environ.get("TG_TOKEN", "").strip()
 print("Token length:", len(TOKEN))
 
